@@ -2,6 +2,8 @@
 
 Cadastro, entrada e perfis de quem usa o Time-Contra.
 
+<a id="fr-acc-01"></a>
+
 ## FR-ACC-01 — Cadastro com perfil
 
 > Como pessoa sem conta, quero me cadastrar como gestor ou como locatário, para usar as funções do meu perfil.
@@ -19,6 +21,8 @@ O sistema deve permitir criar uma conta com um dos perfis: gestor ou locatário.
 
 **Acceptance criteria**
 - **FR-ACC-01.1** — Given uma pessoa sem conta, when ela conclui o cadastro escolhendo um perfil, then a conta é criada com o perfil escolhido.
+
+<a id="fr-acc-02"></a>
 
 ## FR-ACC-02 — Entrar na conta
 
@@ -38,6 +42,8 @@ O sistema deve autenticar o usuário cadastrado antes de liberar as funções do
 **Acceptance criteria**
 - **FR-ACC-02.1** — Given uma conta existente, when o usuário informa credenciais válidas, then ele acessa as funções do seu perfil.
 - **FR-ACC-02.2** — Given uma conta existente, when o usuário informa credenciais inválidas, then o acesso é negado.
+
+<a id="fr-acc-03"></a>
 
 ## FR-ACC-03 — Funções por perfil
 

@@ -2,6 +2,8 @@
 
 Políticas que valem em qualquer funcionalidade.
 
+<a id="br-01"></a>
+
 ## BR-01 — Uso gratuito
 
 Gestores e locatários se cadastram e usam o Time-Contra sem pagar mensalidade ou taxa de cadastro.
@@ -14,6 +16,8 @@ Gestores e locatários se cadastram e usam o Time-Contra sem pagar mensalidade o
 | Status | approved |
 | Milestone | M1 |
 | Since | v1.0.0 |
+
+<a id="br-02"></a>
 
 ## BR-02 — Comissão por aluguel
 
@@ -28,6 +32,8 @@ A plataforma recebe 5% do valor de cada aluguel pago pelo app, descontados do va
 | Milestone | M2 |
 | Since | v1.0.0 |
 
+<a id="br-03"></a>
+
 ## BR-03 — Uma reserva por horário
 
 Um horário de um campo aceita no máximo uma reserva.
@@ -40,6 +46,8 @@ Um horário de um campo aceita no máximo uma reserva.
 | Status | approved |
 | Milestone | M1 |
 | Since | v1.0.0 |
+
+<a id="br-04"></a>
 
 ## BR-04 — Mínimo de dois times por reserva
 

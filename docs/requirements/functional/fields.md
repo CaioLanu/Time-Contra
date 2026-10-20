@@ -2,6 +2,8 @@
 
 O cadastro de cada campo pelo gestor, que vira o anúncio visto pelos locatários.
 
+<a id="fr-fld-01"></a>
+
 ## FR-FLD-01 — Cadastrar campo
 
 > Como gestor, quero cadastrar meu campo, para que locatários o encontrem.
@@ -19,6 +21,8 @@ O sistema deve permitir ao gestor cadastrar um campo com endereço, tipo de camp
 
 **Acceptance criteria**
 - **FR-FLD-01.1** — Given um gestor autenticado, when ele cadastra um campo com endereço, tipo e estrutura, then o anúncio do campo fica disponível na busca.
+
+<a id="fr-fld-02"></a>
 
 ## FR-FLD-02 — Editar campo
 
@@ -38,6 +42,8 @@ O sistema deve permitir ao gestor alterar o endereço, o tipo e a estrutura de u
 **Acceptance criteria**
 - **FR-FLD-02.1** — Given um campo do gestor, when ele altera a estrutura, then o anúncio passa a exibir a estrutura nova.
 
+<a id="fr-fld-03"></a>
+
 ## FR-FLD-03 — Definir horários disponíveis
 
 > Como gestor, quero definir os dias e horários em que meu campo pode ser alugado, para receber reservas só quando o campo está livre.
@@ -55,6 +61,8 @@ O sistema deve permitir ao gestor definir os horários disponíveis de cada camp
 
 **Acceptance criteria**
 - **FR-FLD-03.1** — Given um campo do gestor, when ele define um horário disponível, then esse horário aparece como livre para os locatários.
+
+<a id="fr-fld-04"></a>
 
 ## FR-FLD-04 — Definir preço do aluguel
 

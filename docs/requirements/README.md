@@ -34,30 +34,30 @@ Fora de escopo:
 
 | ID | Name | Priority | Status | Milestone |
 | --- | --- | --- | --- | --- |
-| [FR-ACC-01](functional/accounts.md#fr-acc-01--cadastro-com-perfil) | Cadastro com perfil | Must | approved | M1 |
-| [FR-ACC-02](functional/accounts.md#fr-acc-02--entrar-na-conta) | Entrar na conta | Must | approved | M1 |
-| [FR-ACC-03](functional/accounts.md#fr-acc-03--funções-por-perfil) | Funções por perfil | Must | approved | M1 |
-| [FR-FLD-01](functional/fields.md#fr-fld-01--cadastrar-campo) | Cadastrar campo | Must | approved | M1 |
-| [FR-FLD-02](functional/fields.md#fr-fld-02--editar-campo) | Editar campo | Must | approved | M1 |
-| [FR-FLD-03](functional/fields.md#fr-fld-03--definir-horários-disponíveis) | Definir horários disponíveis | Must | approved | M1 |
-| [FR-FLD-04](functional/fields.md#fr-fld-04--definir-preço-do-aluguel) | Definir preço do aluguel | Must | approved | M1 |
-| [FR-SRC-01](functional/search.md#fr-src-01--ver-campos-no-mapa) | Ver campos no mapa | Must | approved | M1 |
-| [FR-SRC-02](functional/search.md#fr-src-02--filtrar-por-disponibilidade) | Filtrar por disponibilidade | Must | approved | M1 |
-| [FR-SRC-03](functional/search.md#fr-src-03--filtrar-por-tipo-de-campo) | Filtrar por tipo de campo | Must | approved | M1 |
-| [FR-SRC-04](functional/search.md#fr-src-04--filtrar-por-estrutura) | Filtrar por estrutura | Must | approved | M1 |
-| [FR-SRC-05](functional/search.md#fr-src-05--ver-detalhes-do-campo) | Ver detalhes do campo | Must | approved | M1 |
-| [FR-BKG-01](functional/bookings.md#fr-bkg-01--reservar-horário) | Reservar horário | Must | approved | M1 |
-| [FR-BKG-02](functional/bookings.md#fr-bkg-02--agenda-do-gestor) | Agenda do gestor | Must | approved | M1 |
-| [FR-BKG-03](functional/bookings.md#fr-bkg-03--informar-número-de-times) | Informar número de times | Must | approved | M1 |
-| [FR-PAY-01](functional/payments.md#fr-pay-01--registrar-pagamento-da-reserva) | Registrar pagamento da reserva | Should | approved | M1 |
-| [FR-PAY-02](functional/payments.md#fr-pay-02--pagar-a-reserva-pelo-app) | Pagar a reserva pelo app | Must | approved | M2 |
-| [FR-ANL-01](functional/analytics.md#fr-anl-01--contar-visualizações-do-anúncio) | Contar visualizações do anúncio | Could | approved | M1 |
-| [FR-TRN-01](functional/tournaments.md#fr-trn-01--campeonato-do-locatário) | Campeonato do locatário | Could | approved | M2 |
-| [FR-TRN-02](functional/tournaments.md#fr-trn-02--campeonato-do-gestor) | Campeonato do gestor | Could | approved | M2 |
-| [FR-TRN-03](functional/tournaments.md#fr-trn-03--inscrição-em-vaga-paga) | Inscrição em vaga paga | Could | approved | M2 |
-| [NFR-INTR-01](non-functional/interaction-capability.md#nfr-intr-01--uso-no-celular) | Uso no celular | Must | approved | M1 |
-| [NFR-SEC-01](non-functional/security.md#nfr-sec-01--isolamento-entre-gestores) | Isolamento entre gestores | Must | approved | M1 |
-| [BR-01](business-rules.md#br-01--uso-gratuito) | Uso gratuito | Must | approved | M1 |
-| [BR-02](business-rules.md#br-02--comissão-por-aluguel) | Comissão por aluguel | Must | approved | M2 |
-| [BR-03](business-rules.md#br-03--uma-reserva-por-horário) | Uma reserva por horário | Must | approved | M1 |
-| [BR-04](business-rules.md#br-04--mínimo-de-dois-times-por-reserva) | Mínimo de dois times por reserva | Must | approved | M1 |
+| [FR-ACC-01](functional/accounts.md#fr-acc-01) | Cadastro com perfil | Must | approved | M1 |
+| [FR-ACC-02](functional/accounts.md#fr-acc-02) | Entrar na conta | Must | approved | M1 |
+| [FR-ACC-03](functional/accounts.md#fr-acc-03) | Funções por perfil | Must | approved | M1 |
+| [FR-FLD-01](functional/fields.md#fr-fld-01) | Cadastrar campo | Must | approved | M1 |
+| [FR-FLD-02](functional/fields.md#fr-fld-02) | Editar campo | Must | approved | M1 |
+| [FR-FLD-03](functional/fields.md#fr-fld-03) | Definir horários disponíveis | Must | approved | M1 |
+| [FR-FLD-04](functional/fields.md#fr-fld-04) | Definir preço do aluguel | Must | approved | M1 |
+| [FR-SRC-01](functional/search.md#fr-src-01) | Ver campos no mapa | Must | approved | M1 |
+| [FR-SRC-02](functional/search.md#fr-src-02) | Filtrar por disponibilidade | Must | approved | M1 |
+| [FR-SRC-03](functional/search.md#fr-src-03) | Filtrar por tipo de campo | Must | approved | M1 |
+| [FR-SRC-04](functional/search.md#fr-src-04) | Filtrar por estrutura | Must | approved | M1 |
+| [FR-SRC-05](functional/search.md#fr-src-05) | Ver detalhes do campo | Must | approved | M1 |
+| [FR-BKG-01](functional/bookings.md#fr-bkg-01) | Reservar horário | Must | approved | M1 |
+| [FR-BKG-02](functional/bookings.md#fr-bkg-02) | Agenda do gestor | Must | approved | M1 |
+| [FR-BKG-03](functional/bookings.md#fr-bkg-03) | Informar número de times | Must | approved | M1 |
+| [FR-PAY-01](functional/payments.md#fr-pay-01) | Registrar pagamento da reserva | Should | approved | M1 |
+| [FR-PAY-02](functional/payments.md#fr-pay-02) | Pagar a reserva pelo app | Must | approved | M2 |
+| [FR-ANL-01](functional/analytics.md#fr-anl-01) | Contar visualizações do anúncio | Could | approved | M1 |
+| [FR-TRN-01](functional/tournaments.md#fr-trn-01) | Campeonato do locatário | Could | approved | M2 |
+| [FR-TRN-02](functional/tournaments.md#fr-trn-02) | Campeonato do gestor | Could | approved | M2 |
+| [FR-TRN-03](functional/tournaments.md#fr-trn-03) | Inscrição em vaga paga | Could | approved | M2 |
+| [NFR-INTR-01](non-functional/interaction-capability.md#nfr-intr-01) | Uso no celular | Must | approved | M1 |
+| [NFR-SEC-01](non-functional/security.md#nfr-sec-01) | Isolamento entre gestores | Must | approved | M1 |
+| [BR-01](business-rules.md#br-01) | Uso gratuito | Must | approved | M1 |
+| [BR-02](business-rules.md#br-02) | Comissão por aluguel | Must | approved | M2 |
+| [BR-03](business-rules.md#br-03) | Uma reserva por horário | Must | approved | M1 |
+| [BR-04](business-rules.md#br-04) | Mínimo de dois times por reserva | Must | approved | M1 |

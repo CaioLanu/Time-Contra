@@ -2,6 +2,8 @@
 
 Quem pode ver e alterar cada dado.
 
+<a id="nfr-sec-01"></a>
+
 ## NFR-SEC-01 — Isolamento entre gestores
 
 O sistema deve restringir cada gestor às reservas, pagamentos e anúncios dos seus próprios campos.
@@ -9,7 +11,7 @@ O sistema deve restringir cada gestor às reservas, pagamentos e anúncios dos s
 | Attribute | Value |
 | --- | --- |
 | Rationale | A agenda e os pagamentos de um gestor são dados do negócio dele e incluem dados pessoais de locatários (LGPD) |
-| Source | Restrição de LGPD, ver [overview](../overview.md#restrições) |
+| Source | Restrição de LGPD, ver [overview](../overview.md) |
 | Priority | Must |
 | Status | approved |
 | Milestone | M1 |

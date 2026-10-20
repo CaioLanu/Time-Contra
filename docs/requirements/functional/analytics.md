@@ -2,6 +2,8 @@
 
 A audiência do anúncio de cada campo.
 
+<a id="fr-anl-01"></a>
+
 ## FR-ANL-01 — Contar visualizações do anúncio
 
 > Como gestor, quero saber quantas vezes o anúncio do meu campo foi visto, para avaliar o alcance dele.
