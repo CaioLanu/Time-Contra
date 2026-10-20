@@ -1,6 +1,6 @@
 # Time-Contra — Software Requirements Specification
 
-**Version:** 1.0.0 · **Date:** 2026-10-20 · [Changelog](CHANGELOG.md)
+**Version:** 1.1.0 · **Date:** 2026-10-20 · [Changelog](CHANGELOG.md)
 
 ## Purpose
 
@@ -61,3 +61,4 @@ Fora de escopo:
 | [BR-02](business-rules.md#br-02) | Comissão por aluguel | Must | approved | M2 |
 | [BR-03](business-rules.md#br-03) | Uma reserva por horário | Must | approved | M1 |
 | [BR-04](business-rules.md#br-04) | Mínimo de dois times por reserva | Must | approved | M1 |
+| [BR-05](business-rules.md#br-05) | Um perfil por conta | Must | approved | M1 |

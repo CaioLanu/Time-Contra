@@ -14,8 +14,3 @@ O lançamento cobre qualquer cidade ou começa por uma? Se for uma, qual?
 ## Q6
 
 Qual é a política de cancelamento de uma reserva: prazo, reembolso e quem pode cancelar?
-
-## Q7
-
-Uma mesma pessoa pode ter os perfis de gestor e de locatário? Afeta
-[FR-ACC-01](functional/accounts.md#fr-acc-01).

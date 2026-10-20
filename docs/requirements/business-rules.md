@@ -61,3 +61,19 @@ Uma reserva tem no mínimo dois times e pode ter mais.
 | Status | approved |
 | Milestone | M1 |
 | Since | v1.0.0 |
+
+<a id="br-05"></a>
+
+## BR-05 — Um perfil por conta
+
+Cada conta tem exatamente um perfil, gestor ou locatário, que não muda depois do cadastro. Quem é gestor e
+locatário usa duas contas, com e-mails diferentes.
+
+| Attribute | Value |
+| --- | --- |
+| Rationale | Um perfil fixo por conta mantém simples as permissões e o isolamento entre gestores |
+| Source | Stakeholder, spec 1.1 de 2026-10-20 (resposta da Q7) |
+| Priority | Must |
+| Status | approved |
+| Milestone | M1 |
+| Since | v1.1.0 |

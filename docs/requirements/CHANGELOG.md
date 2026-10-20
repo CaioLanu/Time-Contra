@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.1.0 · 2026-10-20
+
+A spec 1.1 (criar conta e entrar) respondeu a Q7.
+
+- Adicionado: BR-05, um perfil por conta, fixo depois do cadastro.
+- Pergunta removida: Q7.
+
 ## 1.0.0 · 2026-10-20
 
 Primeira versão do SRS, a partir da entrevista com o stakeholder.

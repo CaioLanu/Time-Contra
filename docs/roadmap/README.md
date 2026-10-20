@@ -10,7 +10,7 @@ O gestor anuncia o campo e controla a agenda, e o locatário encontra no mapa e 
 
 | Épico | Issue | Cobre |
 | --- | --- | --- |
-| Contas e acesso | [#1](https://github.com/CaioLanu/Time-Contra/issues/1) | FR-ACC-01, FR-ACC-02, FR-ACC-03, BR-01, NFR-INTR-01 |
+| Contas e acesso | [#1](https://github.com/CaioLanu/Time-Contra/issues/1) | FR-ACC-01, FR-ACC-02, FR-ACC-03, BR-01, BR-05, NFR-INTR-01 |
 | Anúncio de campos | [#2](https://github.com/CaioLanu/Time-Contra/issues/2) | FR-FLD-01, FR-FLD-02, FR-FLD-03, FR-FLD-04, NFR-SEC-01 |
 | Busca no mapa | [#3](https://github.com/CaioLanu/Time-Contra/issues/3) | FR-SRC-01, FR-SRC-02, FR-SRC-03, FR-SRC-04, FR-SRC-05 |
 | Reservas e agenda | [#5](https://github.com/CaioLanu/Time-Contra/issues/5) | FR-BKG-01, FR-BKG-02, FR-BKG-03, FR-PAY-01, BR-03, BR-04 |
@@ -31,6 +31,7 @@ Cada requisito aprovado de um marco planejado está em exatamente um épico.
 | FR-ACC-02 | #1 | M1 |
 | FR-ACC-03 | #1 | M1 |
 | BR-01 | #1 | M1 |
+| BR-05 | #1 | M1 |
 | NFR-INTR-01 | #1 | M1 |
 | FR-FLD-01 | #2 | M1 |
 | FR-FLD-02 | #2 | M1 |
