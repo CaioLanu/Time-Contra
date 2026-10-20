@@ -11,9 +11,9 @@ antes e durante a construção.
 | [Arquitetura](architecture/README.md) | Os blocos do sistema, como conversam e onde rodam (arc42 e C4) |
 | [Modelo de dados](data-model/README.md) | Entidades, relações, invariantes e armazenamento |
 | [Design](design/README.md) | Marca, tokens e as telas de cada feature, desenhadas no Figma |
+| [Roadmap](roadmap/README.md) | Marcos, épicos, cobertura dos requisitos e o plano de cada sprint |
 
-O roadmap (`roadmap/`) nasce no primeiro `/tightship:sprint plan`. As specs (`specs/`) e as ADRs (`decisions/`)
-nascem no primeiro `/tightship:spec`.
+As specs (`specs/`) e as ADRs (`decisions/`) nascem no primeiro `/tightship:spec`.
 
 ## Abrir o site local
 
