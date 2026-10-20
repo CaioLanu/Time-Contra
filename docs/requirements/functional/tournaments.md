@@ -2,6 +2,8 @@
 
 Campeonatos disputados em um campo, criados pelo locatário ou pelo gestor.
 
+![Casos de uso: Campeonatos](../diagrams/use-cases-tournaments.drawio.svg)
+
 <a id="fr-trn-01"></a>
 
 ## FR-TRN-01 — Campeonato do locatário

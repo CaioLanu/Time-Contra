@@ -2,6 +2,8 @@
 
 Cadastro, entrada e perfis de quem usa o Time-Contra.
 
+![Casos de uso: Contas](../diagrams/use-cases-accounts.drawio.svg)
+
 <a id="fr-acc-01"></a>
 
 ## FR-ACC-01 — Cadastro com perfil

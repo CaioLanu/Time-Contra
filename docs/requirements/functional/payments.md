@@ -2,6 +2,8 @@
 
 O controle do pagamento das reservas e o pagamento pelo app.
 
+![Casos de uso: Pagamentos](../diagrams/use-cases-payments.drawio.svg)
+
 <a id="fr-pay-01"></a>
 
 ## FR-PAY-01 — Registrar pagamento da reserva

@@ -2,6 +2,8 @@
 
 O aluguel de um horário e a agenda do gestor.
 
+![Casos de uso: Reservas](../diagrams/use-cases-bookings.drawio.svg)
+
 <a id="fr-bkg-01"></a>
 
 ## FR-BKG-01 — Reservar horário

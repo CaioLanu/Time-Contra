@@ -5,6 +5,8 @@ nascem com a primeira migration. Até lá, vale o modelo conceitual abaixo.
 
 ## Entidades
 
+![Modelo conceitual](diagrams/conceptual.drawio.svg)
+
 | Entidade | Significado | Marco |
 | --- | --- | --- |
 | Usuário | Uma pessoa com conta e um perfil: gestor ou locatário | M1 |

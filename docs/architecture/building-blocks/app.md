@@ -12,6 +12,8 @@ e conversa com o Supabase.
 
 ## Partes
 
+![Componentes do app](../diagrams/components-app.drawio.svg)
+
 | Parte | Pasta | Responsabilidade |
 | --- | --- | --- |
 | Views | `lib/ui/<feature>/widgets/` | Desenhar a tela e repassar ao view model o que o usuário faz |

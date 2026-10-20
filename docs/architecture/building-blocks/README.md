@@ -1,5 +1,7 @@
 # Blocos
 
+![Diagrama de contêineres](../diagrams/containers.drawio.svg)
+
 | Bloco | Tecnologia | Responsabilidade | Fala com | Marco |
 | --- | --- | --- | --- | --- |
 | [App](app.md) | Flutter (Dart) | Telas do gestor e do locatário em Android, iOS e web | Supabase (HTTPS), provedor de mapas (HTTPS) | M1 |

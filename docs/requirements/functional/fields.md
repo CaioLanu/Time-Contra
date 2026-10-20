@@ -2,6 +2,8 @@
 
 O cadastro de cada campo pelo gestor, que vira o anúncio visto pelos locatários.
 
+![Casos de uso: Campos](../diagrams/use-cases-fields.drawio.svg)
+
 <a id="fr-fld-01"></a>
 
 ## FR-FLD-01 — Cadastrar campo

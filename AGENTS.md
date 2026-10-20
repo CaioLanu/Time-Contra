@@ -28,7 +28,7 @@ ainda. Cada um entra aqui, com o comando exato, na entrega que cria o app.
 | Formatting | pendente: o projeto Flutter não existe |
 | Build | pendente: o projeto Flutter não existe |
 | Tests | pendente: o projeto Flutter não existe |
-| Docs site | pendente: entra com o site de docs |
+| Docs site | `uvx zensical==0.0.71 build` |
 
 ## Architecture
 

@@ -2,6 +2,8 @@
 
 A audiência do anúncio de cada campo.
 
+![Casos de uso: Visualizações](../diagrams/use-cases-analytics.drawio.svg)
+
 <a id="fr-anl-01"></a>
 
 ## FR-ANL-01 — Contar visualizações do anúncio

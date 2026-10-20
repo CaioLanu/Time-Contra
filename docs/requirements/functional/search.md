@@ -2,6 +2,8 @@
 
 Como o locatário encontra um campo.
 
+![Casos de uso: Busca](../diagrams/use-cases-search.drawio.svg)
+
 <a id="fr-src-01"></a>
 
 ## FR-SRC-01 — Ver campos no mapa

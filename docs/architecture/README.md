@@ -15,6 +15,8 @@ Estão em [Visão geral dos requisitos](../requirements/overview.md).
 
 ## 3. Contexto e escopo
 
+![Diagrama de contexto](diagrams/context.drawio.svg)
+
 | Ator ou sistema | O que troca com o Time-Contra | Marco |
 | --- | --- | --- |
 | Gestor | Cadastra campos, horários e preços; consulta a agenda, os pagamentos e as visualizações | M1 |

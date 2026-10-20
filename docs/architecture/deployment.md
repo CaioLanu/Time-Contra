@@ -2,6 +2,8 @@
 
 ## Ambientes
 
+![Implantação em produção](diagrams/deployment.drawio.svg)
+
 | Ambiente | App | Supabase |
 | --- | --- | --- |
 | Local | `flutter run` no emulador, no aparelho ou no navegador | `supabase start`, em contêineres Docker na máquina |

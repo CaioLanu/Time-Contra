@@ -2,6 +2,8 @@
 
 M1. Cobre FR-SRC-01, FR-SRC-05, FR-BKG-01, FR-BKG-03 e BR-03.
 
+![Sequência da reserva](../diagrams/runtime-booking.drawio.svg)
+
 1. O locatário escolhe um bairro no app, e o app pede ao banco os campos daquela área (HTTPS, API REST).
 2. O banco devolve só campos com horário livre, filtrados por PostGIS e pelos filtros escolhidos.
 3. O locatário abre o anúncio; o app grava uma visualização (FR-ANL-01).
