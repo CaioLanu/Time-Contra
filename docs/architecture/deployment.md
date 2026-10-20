@@ -9,6 +9,9 @@
 | Local | `flutter run` no emulador, no aparelho ou no navegador | `supabase start`, em contêineres Docker na máquina |
 | Produção | Google Play, App Store e um host do site web, a escolher | Um projeto no Supabase Cloud, com plano a escolher |
 
+O app usa o identificador `br.com.timecontra.app` no Android e no iOS, que também é o esquema do deep link de
+confirmação de e-mail. O Supabase Auth aceita redirecionar para esse esquema e para o endereço da web.
+
 O host do site web e o plano do Supabase Cloud estão em aberto em [Riscos](risks.md).
 
 ## Entrega

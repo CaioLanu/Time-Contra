@@ -2,7 +2,9 @@
 
 ## Identidade
 
-O Supabase Auth autentica gestores e locatários (FR-ACC-02). Cada usuário tem um perfil, gestor ou locatário
+O Supabase Auth autentica gestores e locatários (FR-ACC-02) por e-mail e senha, Google ou Apple. O login por
+senha só funciona depois de confirmar o e-mail. O cadastro com um e-mail que já existe mostra a mesma tela de um
+cadastro novo, para não revelar quem tem conta. Cada usuário tem um perfil, gestor ou locatário
 (FR-ACC-01), e o app mostra só as funções do perfil (FR-ACC-03). O app esconder a função não é a proteção: a
 proteção é a policy do banco.
 

@@ -9,7 +9,7 @@ nascem com a primeira migration. Até lá, vale o modelo conceitual abaixo.
 
 | Entidade | Significado | Marco |
 | --- | --- | --- |
-| Usuário | Uma pessoa com conta e um perfil: gestor ou locatário | M1 |
+| Usuário | Uma pessoa com conta, nome, telefone, foto opcional e um perfil fixo: gestor ou locatário | M1 |
 | Campo | Um campo anunciado por um gestor, com endereço, localização, tipo e estrutura | M1 |
 | Disponibilidade | Um intervalo de dia e hora em que o campo pode ser alugado | M1 |
 | Preço | O valor do aluguel de um campo para um número de times | M1 |
@@ -36,6 +36,7 @@ nascem com a primeira migration. Até lá, vale o modelo conceitual abaixo.
 - Valores em dinheiro são inteiros em centavos de real.
 - Horários são instantes com fuso.
 - Um gestor só alcança os registros dos próprios campos (NFR-SEC-01).
+- O perfil de uma conta não muda depois do cadastro (BR-05).
 
 ## Mais
 

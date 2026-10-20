@@ -5,8 +5,13 @@ O backend gerenciado: login, banco e as funções de servidor. O código fica em
 
 ## Auth
 
-Cadastro, login e sessão de gestores e locatários (FR-ACC-01, FR-ACC-02). O perfil de cada usuário fica numa
-tabela do banco, ligada ao usuário do Auth.
+Cadastro, login e sessão de gestores e locatários (FR-ACC-01, FR-ACC-02). Os provedores são e-mail e senha,
+com confirmação do e-mail por link, Google e Apple. O perfil de cada usuário fica na tabela `profiles`, ligada
+ao usuário do Auth. Detalhes na [spec 1.1](../../specs/1-accounts-access/sign-up-and-sign-in.md).
+
+## Storage
+
+O bucket `avatars` guarda as fotos de perfil, uma pasta por usuário, que só o dono lê e grava. M1.
 
 ## Banco
 
